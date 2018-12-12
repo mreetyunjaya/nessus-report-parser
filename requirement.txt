@@ -1,0 +1,5 @@
+apache2
+sqlite3
+PHP 5.4+
+php5-sqlite
+mysql-server
